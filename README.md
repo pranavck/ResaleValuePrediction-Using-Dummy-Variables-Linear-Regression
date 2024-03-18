@@ -1,0 +1,2 @@
+# ResaleValuePrediction-Using-Dummy-Variables-Linear-Regression
+This repository contains code for predicting the resale value of vehicles using linear regression with dummy variables. The project focuses on leveraging dummy variables to represent categorical features in the dataset and applying linear regression to predict the resale value of vehicles based on various factors such as mileage and age
